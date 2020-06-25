@@ -1,5 +1,7 @@
 this the code which encrypt the code 
-you can't read that without change to by the code
+you can't read that without reversing by code
+
+
 how to use:
     str_enc("abcd")--->for string
     int_enc(20966)--->for integer
